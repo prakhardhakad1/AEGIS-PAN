@@ -1,0 +1,2702 @@
+[
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 47,
+      "T": 1,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.34313474,
+      "hr2": 0.34993775,
+      "os_60m": 0.83896973,
+      "cif1_60m": 0.13076235,
+      "cif2_60m": 0.03026792
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 49,
+      "T": 2,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.20755783,
+      "hr2": 0.58333129,
+      "os_60m": 0.71008953,
+      "cif1_60m": 0.25406353,
+      "cif2_60m": 0.03584694
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 37,
+      "T": 3,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 2.92989893,
+      "hr2": 1.08328707,
+      "os_60m": 0.40043511,
+      "cif1_60m": 0.57794863,
+      "cif2_60m": 0.02161626
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 58,
+      "T": 4,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.48201108,
+      "hr2": 0.57810486,
+      "os_60m": 0.82176255,
+      "cif1_60m": 0.15680997,
+      "cif2_60m": 0.02142748
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 73,
+      "T": 1,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.93516521,
+      "hr2": 1.89079996,
+      "os_60m": 0.62609953,
+      "cif1_60m": 0.21482417,
+      "cif2_60m": 0.1590763
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 73,
+      "T": 2,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 3.74211141,
+      "hr2": 3.73220794,
+      "os_60m": 0.13238471,
+      "cif1_60m": 0.7165852,
+      "cif2_60m": 0.15103009
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 76,
+      "T": 3,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.14181366,
+      "hr2": 1.39654314,
+      "os_60m": 0.16765258,
+      "cif1_60m": 0.80577657,
+      "cif2_60m": 0.02657085
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 42,
+      "T": 4,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 2.02982585,
+      "hr2": 0.54881164,
+      "os_60m": 0.21915414,
+      "cif1_60m": 0.76636537,
+      "cif2_60m": 0.01448049
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 39,
+      "T": 1,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.44920905,
+      "hr2": 1.08328707,
+      "os_60m": 0.84394162,
+      "cif1_60m": 0.12570974,
+      "cif2_60m": 0.03034864
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 59,
+      "T": 2,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 0.72328641,
+      "hr2": 0.60713749,
+      "os_60m": 0.69921555,
+      "cif1_60m": 0.25264872,
+      "cif2_60m": 0.04813573
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 61,
+      "T": 3,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.55102799,
+      "hr2": 1.05022035,
+      "os_60m": 0.63028339,
+      "cif1_60m": 0.30867046,
+      "cif2_60m": 0.06104615
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 49,
+      "T": 4,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 6.30063234,
+      "hr2": 1.15142465,
+      "os_60m": 0.14482575,
+      "cif1_60m": 0.83965212,
+      "cif2_60m": 0.01552213
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 70,
+      "T": 1,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.5619839,
+      "hr2": 1.04081077,
+      "os_60m": 0.89764725,
+      "cif1_60m": 0.06207828,
+      "cif2_60m": 0.04027447
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 85,
+      "T": 2,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.9712148,
+      "hr2": 3.40416608,
+      "os_60m": 0.39623498,
+      "cif1_60m": 0.3698469,
+      "cif2_60m": 0.23391812
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 43,
+      "T": 3,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 2.40360075,
+      "hr2": 1.08328707,
+      "os_60m": 0.30886174,
+      "cif1_60m": 0.63103713,
+      "cif2_60m": 0.06010114
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 46,
+      "T": 4,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.22789338,
+      "hr2": 0.34993775,
+      "os_60m": 0.15358938,
+      "cif1_60m": 0.83995677,
+      "cif2_60m": 0.00645385
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 54,
+      "T": 1,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.76971722,
+      "hr2": 0.74527649,
+      "os_60m": 0.54707115,
+      "cif1_60m": 0.42422344,
+      "cif2_60m": 0.0287054
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 51,
+      "T": 2,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 3.05475685,
+      "hr2": 1.26997854,
+      "os_60m": 0.72124331,
+      "cif1_60m": 0.24575877,
+      "cif2_60m": 0.03299791
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 71,
+      "T": 3,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.92901344,
+      "hr2": 1.09308066,
+      "os_60m": 0.61317273,
+      "cif1_60m": 0.30529588,
+      "cif2_60m": 0.08153139
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 73,
+      "T": 4,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 3.33542464,
+      "hr2": 1.89079996,
+      "os_60m": 0.38062494,
+      "cif1_60m": 0.53138977,
+      "cif2_60m": 0.08798529
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 61,
+      "T": 1,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 2.38922233,
+      "hr2": 2.07300656,
+      "os_60m": 0.45723895,
+      "cif1_60m": 0.49896687,
+      "cif2_60m": 0.04379417
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 40,
+      "T": 2,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 0.59238412,
+      "hr2": 0.34993775,
+      "os_60m": 0.92005858,
+      "cif1_60m": 0.06623518,
+      "cif2_60m": 0.01370624
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 55,
+      "T": 3,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.2661337,
+      "hr2": 0.78270454,
+      "os_60m": 0.63972933,
+      "cif1_60m": 0.29376191,
+      "cif2_60m": 0.06650876
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 55,
+      "T": 4,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 5.16884883,
+      "hr2": 1.54496306,
+      "os_60m": 0.08607837,
+      "cif1_60m": 0.85962418,
+      "cif2_60m": 0.05429745
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 58,
+      "T": 1,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.46562156,
+      "hr2": 0.57810486,
+      "os_60m": 0.48257935,
+      "cif1_60m": 0.50066159,
+      "cif2_60m": 0.01675905
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 66,
+      "T": 2,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.62247052,
+      "hr2": 1.3417839,
+      "os_60m": 0.28374825,
+      "cif1_60m": 0.67711788,
+      "cif2_60m": 0.03913387
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 63,
+      "T": 3,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 3.92363268,
+      "hr2": 2.28644909,
+      "os_60m": 0.64424004,
+      "cif1_60m": 0.29940961,
+      "cif2_60m": 0.05635035
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 83,
+      "T": 4,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.99780684,
+      "hr2": 1.96796497,
+      "os_60m": 0.3621417,
+      "cif1_60m": 0.52130393,
+      "cif2_60m": 0.11655437
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 43,
+      "T": 1,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.63249556,
+      "hr2": 0.54881164,
+      "os_60m": 0.82120841,
+      "cif1_60m": 0.14264118,
+      "cif2_60m": 0.0361504
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 31,
+      "T": 2,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 2.51846604,
+      "hr2": 1.08328707,
+      "os_60m": 0.45324656,
+      "cif1_60m": 0.52395516,
+      "cif2_60m": 0.02279828
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 52,
+      "T": 3,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.76087813,
+      "hr2": 0.43084797,
+      "os_60m": 0.89919433,
+      "cif1_60m": 0.08411978,
+      "cif2_60m": 0.01668589
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 67,
+      "T": 4,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 2.7227707,
+      "hr2": 1.40916876,
+      "os_60m": 0.3938587,
+      "cif1_60m": 0.50955639,
+      "cif2_60m": 0.09658491
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 67,
+      "T": 1,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.96004597,
+      "hr2": 2.78152684,
+      "os_60m": 0.32075717,
+      "cif1_60m": 0.52253827,
+      "cif2_60m": 0.15670456
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 70,
+      "T": 2,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 0.98147376,
+      "hr2": 1.04081077,
+      "os_60m": 0.2168467,
+      "cif1_60m": 0.76138477,
+      "cif2_60m": 0.02176852
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 78,
+      "T": 3,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 2.08395583,
+      "hr2": 2.41572633,
+      "os_60m": 0.19138467,
+      "cif1_60m": 0.74801793,
+      "cif2_60m": 0.0605974
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 33,
+      "T": 4,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 4.2194298,
+      "hr2": 1.08328707,
+      "os_60m": 0.64990222,
+      "cif1_60m": 0.3232912,
+      "cif2_60m": 0.02680658
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 53,
+      "T": 1,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.37884351,
+      "hr2": 0.4524853,
+      "os_60m": 0.81865746,
+      "cif1_60m": 0.14266662,
+      "cif2_60m": 0.03867592
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 55,
+      "T": 2,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.33322391,
+      "hr2": 0.78270454,
+      "os_60m": 0.67837433,
+      "cif1_60m": 0.27454795,
+      "cif2_60m": 0.04707772
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 43,
+      "T": 3,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 3.23480267,
+      "hr2": 1.08328707,
+      "os_60m": 0.36530903,
+      "cif1_60m": 0.61389448,
+      "cif2_60m": 0.02079649
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 64,
+      "T": 4,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.63623848,
+      "hr2": 0.7756918,
+      "os_60m": 0.80064118,
+      "cif1_60m": 0.17096678,
+      "cif2_60m": 0.02839204
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 79,
+      "T": 1,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.03248439,
+      "hr2": 2.53704495,
+      "os_60m": 0.56874016,
+      "cif1_60m": 0.22698697,
+      "cif2_60m": 0.20427287
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 79,
+      "T": 2,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 4.1315391,
+      "hr2": 5.00781654,
+      "os_60m": 0.09865334,
+      "cif1_60m": 0.7175508,
+      "cif2_60m": 0.18379586
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 40,
+      "T": 3,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.63041177,
+      "hr2": 0.34993775,
+      "os_60m": 0.37953476,
+      "cif1_60m": 0.61131644,
+      "cif2_60m": 0.0091488
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 48,
+      "T": 4,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 2.24106231,
+      "hr2": 0.55543705,
+      "os_60m": 0.18761546,
+      "cif1_60m": 0.7985531,
+      "cif2_60m": 0.01383144
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 45,
+      "T": 1,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.60002288,
+      "hr2": 1.08328707,
+      "os_60m": 0.8320229,
+      "cif1_60m": 0.13783721,
+      "cif2_60m": 0.03013988
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 65,
+      "T": 2,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 0.79855615,
+      "hr2": 0.81464732,
+      "os_60m": 0.66455186,
+      "cif1_60m": 0.27237963,
+      "cif2_60m": 0.0630685
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 67,
+      "T": 3,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.71243773,
+      "hr2": 1.40916876,
+      "os_60m": 0.58993734,
+      "cif1_60m": 0.33060142,
+      "cif2_60m": 0.07946124
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 55,
+      "T": 4,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 6.95631583,
+      "hr2": 1.54496306,
+      "os_60m": 0.11746199,
+      "cif1_60m": 0.86314597,
+      "cif2_60m": 0.01939204
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 76,
+      "T": 1,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.62046749,
+      "hr2": 1.39654314,
+      "os_60m": 0.87869703,
+      "cif1_60m": 0.06782552,
+      "cif2_60m": 0.05347745
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 49,
+      "T": 2,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.08833608,
+      "hr2": 0.58333129,
+      "os_60m": 0.68759528,
+      "cif1_60m": 0.26114275,
+      "cif2_60m": 0.05126197
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 49,
+      "T": 3,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 2.65373459,
+      "hr2": 1.15142465,
+      "os_60m": 0.27446839,
+      "cif1_60m": 0.66459456,
+      "cif2_60m": 0.06093704
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 52,
+      "T": 4,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.3556757,
+      "hr2": 0.43084797,
+      "os_60m": 0.1261537,
+      "cif1_60m": 0.86642244,
+      "cif2_60m": 0.00742386
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 60,
+      "T": 1,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.84981885,
+      "hr2": 1.0,
+      "os_60m": 0.50913904,
+      "cif1_60m": 0.45356229,
+      "cif2_60m": 0.03729867
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 57,
+      "T": 2,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 3.3726541,
+      "hr2": 1.70403676,
+      "os_60m": 0.69074752,
+      "cif1_60m": 0.2658683,
+      "cif2_60m": 0.04338418
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 77,
+      "T": 3,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.02569243,
+      "hr2": 1.46667803,
+      "os_60m": 0.56863618,
+      "cif1_60m": 0.32566642,
+      "cif2_60m": 0.1056974
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 79,
+      "T": 4,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 3.68252994,
+      "hr2": 2.53704495,
+      "os_60m": 0.33317696,
+      "cif1_60m": 0.55511867,
+      "cif2_60m": 0.11170436
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 25,
+      "T": 1,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.31912406,
+      "hr2": 1.08328707,
+      "os_60m": 0.65038483,
+      "cif1_60m": 0.32279935,
+      "cif2_60m": 0.02681582
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 46,
+      "T": 2,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 0.65403135,
+      "hr2": 0.34993775,
+      "os_60m": 0.91347258,
+      "cif1_60m": 0.07286962,
+      "cif2_60m": 0.01365781
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 61,
+      "T": 3,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.39789555,
+      "hr2": 1.05022035,
+      "os_60m": 0.5988158,
+      "cif1_60m": 0.31461706,
+      "cif2_60m": 0.08656714
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 61,
+      "T": 4,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 5.7067518,
+      "hr2": 2.07300656,
+      "os_60m": 0.06441837,
+      "cif1_60m": 0.86888262,
+      "cif2_60m": 0.066699
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 64,
+      "T": 1,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.51407708,
+      "hr2": 0.7756918,
+      "os_60m": 0.44483865,
+      "cif1_60m": 0.53345962,
+      "cif2_60m": 0.02170172
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 72,
+      "T": 2,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.79131502,
+      "hr2": 1.80038404,
+      "os_60m": 0.24484801,
+      "cif1_60m": 0.70559217,
+      "cif2_60m": 0.04955982
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 69,
+      "T": 3,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 4.33195061,
+      "hr2": 3.06792059,
+      "os_60m": 0.60532145,
+      "cif1_60m": 0.32120918,
+      "cif2_60m": 0.07346937
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 47,
+      "T": 4,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.10301793,
+      "hr2": 0.34993775,
+      "os_60m": 0.6118159,
+      "cif1_60m": 0.36210926,
+      "cif2_60m": 0.02607483
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 49,
+      "T": 1,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.69831704,
+      "hr2": 0.58333129,
+      "os_60m": 0.8058662,
+      "cif1_60m": 0.15605786,
+      "cif2_60m": 0.03807594
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 37,
+      "T": 2,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 2.78055348,
+      "hr2": 1.08328707,
+      "os_60m": 0.41885316,
+      "cif1_60m": 0.55911192,
+      "cif2_60m": 0.02203492
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 58,
+      "T": 3,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.84005991,
+      "hr2": 0.57810486,
+      "os_60m": 0.88559568,
+      "cif1_60m": 0.0921822,
+      "cif2_60m": 0.02222213
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 73,
+      "T": 4,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 3.00611937,
+      "hr2": 1.89079996,
+      "os_60m": 0.34506506,
+      "cif1_60m": 0.53231224,
+      "cif2_60m": 0.12262271
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 73,
+      "T": 1,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 2.1640207,
+      "hr2": 3.73220794,
+      "os_60m": 0.26773393,
+      "cif1_60m": 0.53667061,
+      "cif2_60m": 0.19559546
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 76,
+      "T": 2,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.0836121,
+      "hr2": 1.39654314,
+      "os_60m": 0.18309744,
+      "cif1_60m": 0.78947113,
+      "cif2_60m": 0.02743143
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 42,
+      "T": 3,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.15058203,
+      "hr2": 0.54881164,
+      "os_60m": 0.4178461,
+      "cif1_60m": 0.56337434,
+      "cif2_60m": 0.01877957
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 39,
+      "T": 4,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 4.65853024,
+      "hr2": 1.08328707,
+      "os_60m": 0.62353822,
+      "cif1_60m": 0.35016373,
+      "cif2_60m": 0.02629805
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 59,
+      "T": 1,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.41826835,
+      "hr2": 0.60713749,
+      "os_60m": 0.79369461,
+      "cif1_60m": 0.15517957,
+      "cif2_60m": 0.05112582
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 61,
+      "T": 2,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.47196759,
+      "hr2": 1.05022035,
+      "os_60m": 0.64278673,
+      "cif1_60m": 0.29561,
+      "cif2_60m": 0.06160326
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 49,
+      "T": 3,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 3.57143661,
+      "hr2": 1.15142465,
+      "os_60m": 0.32941094,
+      "cif1_60m": 0.64940974,
+      "cif2_60m": 0.02117931
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 70,
+      "T": 4,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.80651577,
+      "hr2": 1.04081077,
+      "os_60m": 0.77646155,
+      "cif1_60m": 0.18599936,
+      "cif2_60m": 0.03753909
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 85,
+      "T": 1,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.13993122,
+      "hr2": 3.40416608,
+      "os_60m": 0.50328309,
+      "cif1_60m": 0.23724389,
+      "cif2_60m": 0.25947302
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 43,
+      "T": 2,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 2.28108225,
+      "hr2": 1.08328707,
+      "os_60m": 0.32622005,
+      "cif1_60m": 0.61232831,
+      "cif2_60m": 0.06145164
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 46,
+      "T": 3,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.69601639,
+      "hr2": 0.34993775,
+      "os_60m": 0.34364612,
+      "cif1_60m": 0.64757592,
+      "cif2_60m": 0.00877796
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 54,
+      "T": 4,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 2.47428137,
+      "hr2": 0.74527649,
+      "os_60m": 0.15656658,
+      "cif1_60m": 0.82604521,
+      "cif2_60m": 0.01738821
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 51,
+      "T": 1,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.76653134,
+      "hr2": 1.26997854,
+      "os_60m": 0.81441492,
+      "cif1_60m": 0.15061471,
+      "cif2_60m": 0.03497036
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 71,
+      "T": 2,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 0.88165893,
+      "hr2": 1.09308066,
+      "os_60m": 0.62535732,
+      "cif1_60m": 0.29236964,
+      "cif2_60m": 0.08227304
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 73,
+      "T": 3,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.89064479,
+      "hr2": 1.89079996,
+      "os_60m": 0.54500035,
+      "cif1_60m": 0.35213846,
+      "cif2_60m": 0.10286118
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 61,
+      "T": 4,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 7.68023388,
+      "hr2": 2.07300656,
+      "os_60m": 0.09294943,
+      "cif1_60m": 0.88294268,
+      "cif2_60m": 0.02410789
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 40,
+      "T": 1,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.34256904,
+      "hr2": 0.34993775,
+      "os_60m": 0.94723692,
+      "cif1_60m": 0.03885819,
+      "cif2_60m": 0.01390489
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 55,
+      "T": 2,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.20159519,
+      "hr2": 0.78270454,
+      "os_60m": 0.65171785,
+      "cif1_60m": 0.28119836,
+      "cif2_60m": 0.06708378
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 55,
+      "T": 3,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 2.92989893,
+      "hr2": 1.54496306,
+      "os_60m": 0.23380155,
+      "cif1_60m": 0.68937919,
+      "cif2_60m": 0.07681927
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 58,
+      "T": 4,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.49675585,
+      "hr2": 0.57810486,
+      "os_60m": 0.10127872,
+      "cif1_60m": 0.8894591,
+      "cif2_60m": 0.00926218
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 66,
+      "T": 1,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.93825635,
+      "hr2": 1.3417839,
+      "os_60m": 0.46884842,
+      "cif1_60m": 0.48289096,
+      "cif2_60m": 0.04826062
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 63,
+      "T": 2,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 3.72363373,
+      "hr2": 2.28644909,
+      "os_60m": 0.65650704,
+      "cif1_60m": 0.28664698,
+      "cif2_60m": 0.05684597
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 83,
+      "T": 3,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.13243245,
+      "hr2": 1.96796497,
+      "os_60m": 0.51884853,
+      "cif1_60m": 0.34505045,
+      "cif2_60m": 0.13610102
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 43,
+      "T": 4,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 2.03317782,
+      "hr2": 0.54881164,
+      "os_60m": 0.5798454,
+      "cif1_60m": 0.38945009,
+      "cif2_60m": 0.03070451
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 31,
+      "T": 1,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.45640042,
+      "hr2": 1.08328707,
+      "os_60m": 0.62404946,
+      "cif1_60m": 0.34964256,
+      "cif2_60m": 0.02630798
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 52,
+      "T": 2,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 0.72209397,
+      "hr2": 0.43084797,
+      "os_60m": 0.90326759,
+      "cif1_60m": 0.08000943,
+      "cif2_60m": 0.01672298
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 67,
+      "T": 3,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.54336937,
+      "hr2": 1.40916876,
+      "os_60m": 0.55295954,
+      "cif1_60m": 0.33501389,
+      "cif2_60m": 0.11202657
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 67,
+      "T": 4,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 6.30063234,
+      "hr2": 2.78152684,
+      "os_60m": 0.04622573,
+      "cif1_60m": 0.87238728,
+      "cif2_60m": 0.08138699
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 70,
+      "T": 1,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.56757517,
+      "hr2": 1.04081077,
+      "os_60m": 0.40581038,
+      "cif1_60m": 0.56619675,
+      "cif2_60m": 0.02799287
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 78,
+      "T": 2,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.97773055,
+      "hr2": 2.41572633,
+      "os_60m": 0.20690328,
+      "cif1_60m": 0.73072108,
+      "cif2_60m": 0.06237564
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 33,
+      "T": 3,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 2.39173233,
+      "hr2": 1.08328707,
+      "os_60m": 0.77216118,
+      "cif1_60m": 0.19876345,
+      "cif2_60m": 0.02907537
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 53,
+      "T": 4,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.21780493,
+      "hr2": 0.4524853,
+      "os_60m": 0.57770556,
+      "cif1_60m": 0.38945068,
+      "cif2_60m": 0.03284376
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 55,
+      "T": 1,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.77098831,
+      "hr2": 0.78270454,
+      "os_60m": 0.78007734,
+      "cif1_60m": 0.16962549,
+      "cif2_60m": 0.05029717
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 43,
+      "T": 2,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 3.06991539,
+      "hr2": 1.08328707,
+      "os_60m": 0.38390382,
+      "cif1_60m": 0.59486208,
+      "cif2_60m": 0.0212341
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 64,
+      "T": 3,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.92748183,
+      "hr2": 0.7756918,
+      "os_60m": 0.86957709,
+      "cif1_60m": 0.10087064,
+      "cif2_60m": 0.02955227
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 79,
+      "T": 4,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 3.31895509,
+      "hr2": 2.53704495,
+      "os_60m": 0.29460841,
+      "cif1_60m": 0.55110555,
+      "cif2_60m": 0.15428605
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 79,
+      "T": 1,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 2.38922233,
+      "hr2": 5.00781654,
+      "os_60m": 0.21468795,
+      "cif1_60m": 0.54424693,
+      "cif2_60m": 0.24106512
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 40,
+      "T": 2,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 0.59827785,
+      "hr2": 0.34993775,
+      "os_60m": 0.39845758,
+      "cif1_60m": 0.59220363,
+      "cif2_60m": 0.00933879
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 48,
+      "T": 3,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.27031884,
+      "hr2": 0.55543705,
+      "os_60m": 0.3825618,
+      "cif1_60m": 0.59913081,
+      "cif2_60m": 0.01830739
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 45,
+      "T": 4,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 5.14332625,
+      "hr2": 1.08328707,
+      "os_60m": 0.59567107,
+      "cif1_60m": 0.37857691,
+      "cif2_60m": 0.02575202
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 65,
+      "T": 1,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.46179599,
+      "hr2": 0.81464732,
+      "os_60m": 0.76436236,
+      "cif1_60m": 0.16826462,
+      "cif2_60m": 0.06737302
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 67,
+      "T": 2,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.62514981,
+      "hr2": 1.40916876,
+      "os_60m": 0.60287145,
+      "cif1_60m": 0.31687562,
+      "cif2_60m": 0.08025292
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 55,
+      "T": 3,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 3.94310281,
+      "hr2": 1.54496306,
+      "os_60m": 0.29102483,
+      "cif1_60m": 0.68194613,
+      "cif2_60m": 0.02702904
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 76,
+      "T": 4,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.99451318,
+      "hr2": 1.39654314,
+      "os_60m": 0.74868428,
+      "cif1_60m": 0.20181485,
+      "cif2_60m": 0.04950087
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 49,
+      "T": 1,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.62937245,
+      "hr2": 0.58333129,
+      "os_60m": 0.78464864,
+      "cif1_60m": 0.16077626,
+      "cif2_60m": 0.0545751
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 49,
+      "T": 2,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 2.51846604,
+      "hr2": 1.15142465,
+      "os_60m": 0.29154802,
+      "cif1_60m": 0.6460351,
+      "cif2_60m": 0.06241688
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 52,
+      "T": 3,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.76844824,
+      "hr2": 0.43084797,
+      "os_60m": 0.30693574,
+      "cif1_60m": 0.6827438,
+      "cif2_60m": 0.01032046
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 60,
+      "T": 4,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 2.73177068,
+      "hr2": 1.0,
+      "os_60m": 0.12792274,
+      "cif1_60m": 0.85032406,
+      "cif2_60m": 0.02175319
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 57,
+      "T": 1,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.95036772,
+      "hr2": 1.70403676,
+      "os_60m": 0.7899038,
+      "cif1_60m": 0.16385909,
+      "cif2_60m": 0.04623711
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 77,
+      "T": 2,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 0.97340991,
+      "hr2": 1.46667803,
+      "os_60m": 0.5811245,
+      "cif1_60m": 0.31213024,
+      "cif2_60m": 0.10674525
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 79,
+      "T": 3,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 2.08739719,
+      "hr2": 2.53704495,
+      "os_60m": 0.49522026,
+      "cif1_60m": 0.37253182,
+      "cif2_60m": 0.13224792
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 25,
+      "T": 4,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 4.24036775,
+      "hr2": 1.08328707,
+      "os_60m": 0.26987608,
+      "cif1_60m": 0.71173076,
+      "cif2_60m": 0.01839316
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 46,
+      "T": 1,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.37821893,
+      "hr2": 0.34993775,
+      "os_60m": 0.94330987,
+      "cif1_60m": 0.04281383,
+      "cif2_60m": 0.0138763
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 61,
+      "T": 2,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.32664076,
+      "hr2": 1.05022035,
+      "os_60m": 0.61121743,
+      "cif1_60m": 0.30139834,
+      "cif2_60m": 0.08738423
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 61,
+      "T": 3,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 3.23480267,
+      "hr2": 2.07300656,
+      "os_60m": 0.19414356,
+      "cif1_60m": 0.7097398,
+      "cif2_60m": 0.09611664
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 64,
+      "T": 4,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.65251769,
+      "hr2": 0.7756918,
+      "os_60m": 0.07935783,
+      "cif1_60m": 0.90913671,
+      "cif2_60m": 0.01150546
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 72,
+      "T": 1,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.03589722,
+      "hr2": 1.80038404,
+      "os_60m": 0.42627771,
+      "cif1_60m": 0.51158542,
+      "cif2_60m": 0.06213688
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 69,
+      "T": 2,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 4.11113851,
+      "hr2": 3.06792059,
+      "os_60m": 0.61805941,
+      "cif1_60m": 0.30776528,
+      "cif2_60m": 0.07417531
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 47,
+      "T": 3,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.62523227,
+      "hr2": 0.34993775,
+      "os_60m": 0.74617395,
+      "cif1_60m": 0.22521578,
+      "cif2_60m": 0.02861027
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 49,
+      "T": 4,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 2.24476312,
+      "hr2": 0.58333129,
+      "os_60m": 0.54877341,
+      "cif1_60m": 0.41939417,
+      "cif2_60m": 0.03183241
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 37,
+      "T": 1,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.60796263,
+      "hr2": 1.08328707,
+      "os_60m": 0.59621031,
+      "cif1_60m": 0.37802701,
+      "cif2_60m": 0.02576267
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 58,
+      "T": 2,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 0.79723961,
+      "hr2": 0.57810486,
+      "os_60m": 0.89002585,
+      "cif1_60m": 0.08769761,
+      "cif2_60m": 0.02227654
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 73,
+      "T": 3,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.70398211,
+      "hr2": 1.89079996,
+      "os_60m": 0.50186668,
+      "cif1_60m": 0.35419225,
+      "cif2_60m": 0.14394106
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 73,
+      "T": 4,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 6.95631583,
+      "hr2": 3.73220794,
+      "os_60m": 0.03153992,
+      "cif1_60m": 0.86983855,
+      "cif2_60m": 0.09862153
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 76,
+      "T": 1,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.62664062,
+      "hr2": 1.39654314,
+      "os_60m": 0.36574328,
+      "cif1_60m": 0.59830731,
+      "cif2_60m": 0.03594941
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 42,
+      "T": 2,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.09193352,
+      "hr2": 0.54881164,
+      "os_60m": 0.43622553,
+      "cif1_60m": 0.54464413,
+      "cif2_60m": 0.01913034
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 39,
+      "T": 3,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 2.64063106,
+      "hr2": 1.08328707,
+      "os_60m": 0.7542467,
+      "cif1_60m": 0.21700201,
+      "cif2_60m": 0.02875129
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 59,
+      "T": 4,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.34453738,
+      "hr2": 0.60713749,
+      "os_60m": 0.54013531,
+      "cif1_60m": 0.41711404,
+      "cif2_60m": 0.04275065
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 61,
+      "T": 1,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.85122221,
+      "hr2": 1.05022035,
+      "os_60m": 0.74997827,
+      "cif1_60m": 0.18379048,
+      "cif2_60m": 0.06623124
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 49,
+      "T": 2,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 3.38939012,
+      "hr2": 1.15142465,
+      "os_60m": 0.34797171,
+      "cif1_60m": 0.63036587,
+      "cif2_60m": 0.02166243
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 70,
+      "T": 3,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.02400143,
+      "hr2": 1.04081077,
+      "os_60m": 0.85059535,
+      "cif1_60m": 0.1101762,
+      "cif2_60m": 0.03922846
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 85,
+      "T": 4,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 3.66434646,
+      "hr2": 3.40416608,
+      "os_60m": 0.24345297,
+      "cif1_60m": 0.56448823,
+      "cif2_60m": 0.19205879
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 43,
+      "T": 1,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.31912406,
+      "hr2": 1.08328707,
+      "os_60m": 0.50113809,
+      "cif1_60m": 0.42509083,
+      "cif2_60m": 0.07377109
+    }
+  },
+  {
+    "profile": {
+      "organ": "GBM",
+      "age": 46,
+      "T": 2,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 0.66053841,
+      "hr2": 0.34993775,
+      "os_60m": 0.36261099,
+      "cif1_60m": 0.62841328,
+      "cif2_60m": 0.00897573
+    }
+  },
+  {
+    "profile": {
+      "organ": "OV",
+      "age": 54,
+      "T": 3,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 1.40251623,
+      "hr2": 0.74527649,
+      "os_60m": 0.34382194,
+      "cif1_60m": 0.6326829,
+      "cif2_60m": 0.02349516
+    }
+  },
+  {
+    "profile": {
+      "organ": "KICH",
+      "age": 51,
+      "T": 4,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 5.67857318,
+      "hr2": 1.26997854,
+      "os_60m": 0.56313683,
+      "cif1_60m": 0.40743437,
+      "cif2_60m": 0.0294288
+    }
+  },
+  {
+    "profile": {
+      "organ": "LUAD",
+      "age": 71,
+      "T": 1,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.50985339,
+      "hr2": 1.09308066,
+      "os_60m": 0.72983183,
+      "cif1_60m": 0.18173445,
+      "cif2_60m": 0.08843371
+    }
+  },
+  {
+    "profile": {
+      "organ": "KIRC",
+      "age": 73,
+      "T": 2,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.79427313,
+      "hr2": 1.89079996,
+      "os_60m": 0.55820768,
+      "cif1_60m": 0.33781505,
+      "cif2_60m": 0.10397728
+    }
+  },
+  {
+    "profile": {
+      "organ": "LGG",
+      "age": 61,
+      "T": 3,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 4.35344692,
+      "hr2": 2.07300656,
+      "os_60m": 0.25309581,
+      "cif1_60m": 0.71257991,
+      "cif2_60m": 0.03432428
+    }
+  },
+  {
+    "profile": {
+      "organ": "BRCA",
+      "age": 40,
+      "T": 4,
+      "N": 0,
+      "grade": 1,
+      "comorb": 0,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 1.10119946,
+      "hr2": 0.34993775,
+      "os_60m": 0.86709032,
+      "cif1_60m": 0.1195964,
+      "cif2_60m": 0.01331328
+    }
+  },
+  {
+    "profile": {
+      "organ": "COAD",
+      "age": 55,
+      "T": 1,
+      "N": 1,
+      "grade": 2,
+      "comorb": 1,
+      "adjuvant": true
+    },
+    "expected": {
+      "shr1": 0.69486891,
+      "hr2": 0.78270454,
+      "os_60m": 0.75399655,
+      "cif1_60m": 0.1741575,
+      "cif2_60m": 0.07184594
+    }
+  },
+  {
+    "profile": {
+      "organ": "HNSC",
+      "age": 55,
+      "T": 2,
+      "N": 2,
+      "grade": 3,
+      "comorb": 2,
+      "adjuvant": false
+    },
+    "expected": {
+      "shr1": 2.78055348,
+      "hr2": 1.54496306,
+      "os_60m": 0.24991569,
+      "cif1_60m": 0.67126585,
+      "cif2_60m": 0.07881846
+    }
+  }
+]
