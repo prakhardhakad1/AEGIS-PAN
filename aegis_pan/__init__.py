@@ -1,2 +1,2 @@
-"""AEGIS-PAN v4.0: Reproducible Pan-Cancer Competing-Risks & Royston-Parmar Survival Engine."""
-__version__ = "4.0.0"
+"""AEGIS-PAN v5.0: Reproducible Newton-Raphson Fine-Gray & Royston-Parmar Survival Engine."""
+__version__ = "5.0.0"

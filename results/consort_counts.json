@@ -1,0 +1,32 @@
+[
+  {
+    "step": "Synthetic TCGA-CDR-shaped file (11,160 rows)",
+    "n": 11160,
+    "excluded": 0
+  },
+  {
+    "step": "Excluded: 24 non-target / hematologic / rare sarcoma tumor types",
+    "n": 5418,
+    "excluded": -5742
+  },
+  {
+    "step": "Excluded: Missing survival status or follow-up record",
+    "n": 5142,
+    "excluded": -276
+  },
+  {
+    "step": "Excluded: Follow-up duration <= 0 months",
+    "n": 5094,
+    "excluded": -48
+  },
+  {
+    "step": "Excluded: Missing age at initial diagnosis",
+    "n": 5046,
+    "excluded": -48
+  },
+  {
+    "step": "Excluded: Unstaged TX / NX pathological extent",
+    "n": 4954,
+    "excluded": -92
+  }
+]

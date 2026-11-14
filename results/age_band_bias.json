@@ -1,0 +1,70 @@
+{
+  "5y": [
+    {
+      "band": "< 50 years (Young Onset)",
+      "n": 1286,
+      "cif1": 30.92,
+      "cif2": 1.57,
+      "allCause": 32.5,
+      "overstatement": 1.58
+    },
+    {
+      "band": "50 - 64 years (Middle Age)",
+      "n": 2005,
+      "cif1": 39.3,
+      "cif2": 7.42,
+      "allCause": 46.72,
+      "overstatement": 7.42
+    },
+    {
+      "band": "65 - 74 years (Older Adult)",
+      "n": 1084,
+      "cif1": 43.02,
+      "cif2": 12.76,
+      "allCause": 55.78,
+      "overstatement": 12.76
+    },
+    {
+      "band": ">= 75 years (Elderly High Competing Risk)",
+      "n": 579,
+      "cif1": 39.44,
+      "cif2": 31.44,
+      "allCause": 70.88,
+      "overstatement": 31.44
+    }
+  ],
+  "10y": [
+    {
+      "band": "< 50 years (Young Onset)",
+      "n": 1286,
+      "cif1": 44.72,
+      "cif2": 2.51,
+      "allCause": 47.23,
+      "overstatement": 2.51
+    },
+    {
+      "band": "50 - 64 years (Middle Age)",
+      "n": 2005,
+      "cif1": 54.08,
+      "cif2": 12.96,
+      "allCause": 67.04,
+      "overstatement": 12.96
+    },
+    {
+      "band": "65 - 74 years (Older Adult)",
+      "n": 1084,
+      "cif1": 62.37,
+      "cif2": 22.29,
+      "allCause": 84.66,
+      "overstatement": 22.29
+    },
+    {
+      "band": ">= 75 years (Elderly High Competing Risk)",
+      "n": 579,
+      "cif1": 44.7,
+      "cif2": 38.71,
+      "allCause": 83.4,
+      "overstatement": 38.7
+    }
+  ]
+}
